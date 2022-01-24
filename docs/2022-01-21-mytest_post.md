@@ -1,3 +1,8 @@
+layout: post
+title: "mytest first post"
+date: 2022-01-21 09:01:00 -0000
+categories: testag
+
 ## Welcome to mytest_post
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
