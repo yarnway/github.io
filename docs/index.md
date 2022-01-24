@@ -9,21 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# 标题 1
-## 标题 2
-### 标题 3
+Happy New Years!!!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold test** and _Italic_test_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 ### Support or Contact
