@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: Hamilton Blog
+description: yarnway's blog.
+author: Yanwei Yang
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: yanweiyoung@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -29,15 +29,14 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
+weibo:
+  username: yarnway
   card: summary
 logo: logo.png
 social:
-  name: Shangzhi Huang
+  name: Yanwei Yang
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
-google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+    - https://weibo.com/u/2568424430
+    - https://github.com/yarnway
+google_site_verification:
 lang: en
