@@ -1,6 +1,6 @@
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
+- title: Weibo
+  url: https://weibo.com/u/2568424430
+  icon: fab fa-weibo
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/yarnway
   icon: fab fa-github
